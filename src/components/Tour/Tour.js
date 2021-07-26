@@ -1,4 +1,4 @@
-import react,{Component} from "react";
+import React, {Component} from "react";
 import "./Tour.scss";
 
 export default class Tour extends Component{
